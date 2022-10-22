@@ -1,1 +1,10 @@
-# eFrailtyIndex
+# The Electronic Frailty Index is Associated with Increased Infection and All-Cause Mortality Among Older Patients with Primary Lung Cancer: A Cohort Study
+
+Yanjiao Shen*, Yuting Wang*, Qingyang Shi, Lisha Hou, Xiaoyan Chen, Birong Dong, Qiukui Hao
+
+Introduction: To assess whether the electronic frailty index (eFI) is independently associated with all-cause mortality and chemotherapy adverse reactions among older Chinese patients with lung cancer.
+Methods: This is a retrospective, single-institution, chart review, and not a prospective cohort study. All patients ≥ 60 years with primary lung cancer in the West China Hospital from 2010 to 2017 were included in this cohort. The eFI was established using 35 frailty-related variables in the electronic medical record (EMR) system and was cut by a value of 0.2 to classify the patients into frail (eFI ≥ 0.2) and robust/non-frail groups (eFI< 0.2). The long-term outcome was all-cause mortality identified by government databases and telephone interviews. Short-term outcomes were any infection, bone suppression, chemotherapy discontinuation, impaired liver function, any gastrointestinal reactions and length of hospitalization. An inverse probability weighting method was used to eliminate the potential confounders. An adjusted Kaplan–Meier estimator and a weighted Cox model were used to calculate the survival and hazard ratio. A weighted logistic model was used to calculate the odds of short-term outcomes.
+Results: A total of 997 patients were included in this study with a median follow-up of 34 months. Compared with non-frail patients, frail patients had an increased risk of mortality and shortened overall survival (hazard ratio [HR] of mortality, 1.29; 95% confidence interval [CI], 1.05 to 1.60; adjusted restricted mean survival time [aRMST] difference, − 5.68 months; 95% CI, − 10.15 to − 1.21 months). For short-term outcomes, frail patients had increased odds of infection compared to non-frail patients (odds ratio, 1.83; 95% CI, 1.09 to 3.06). No other outcome showed a significant result.
+Conclusion: This study of older Chinese patients with primary lung cancer suggests that eFI-based frail patients had worse prognoses with increased risk of all-cause mortality and shortened survival times.
+
+Clin Interv Aging. doi.org/10.2147/CIA.S335172
